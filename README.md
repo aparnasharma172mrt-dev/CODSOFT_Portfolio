@@ -95,6 +95,3 @@ The purpose of this project is to build a professional online portfolio and impr
 
 **CodSoft Frontend Developer Internship**  
 **Task 1: Personal Portfolio Website**
-
-
-## 📂 Project Structure
